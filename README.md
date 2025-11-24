@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/11cJT724-dzOoJ_tvoek5K2boSGBUQYbl
+Inspired by https://x.com/skirano/status/1992702219708412341
 
 ## Run Locally
 
